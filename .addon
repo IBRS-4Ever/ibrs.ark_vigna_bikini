@@ -1,0 +1,18 @@
+{
+  "Title": "Arknights Vigna",
+  "Type": "content",
+  "Org": "ibrs",
+  "Ident": "ark_vigna",
+  "Tags": "arknights anime",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {
+    "Summary": "",
+    "Description": "",
+    "Public": true
+  }
+}

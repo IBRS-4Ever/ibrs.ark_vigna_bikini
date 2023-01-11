@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Arknights Vigna",
+      "Type": "model",
+      "Org": "ibrs",
+      "Ident": "ark_vigna",
+      "Tags": "arknights anime",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "ResourcePaths": null,
+      "HasCode": false,
+      "CodePath": null,
+      "Metadata": {
+        "SingleAssetSource": "models/vigna.vmdl",
+        "Summary": "Vigna from Arknights.",
+        "Description": "Vigna from Arknights.",
+        "Public": true,
+        "ReplaceTags": "arknights anime"
+      }
+    }
+  }
+}

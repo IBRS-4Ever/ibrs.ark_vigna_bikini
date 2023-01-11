@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\Arknights\hongdou/c1"
+	"$nodecal" 1
+	"$nocull" 1
+	"$bumpmap" "models\Arknights\hongdou/normal"
+
+	"$lightwarptexture" "models\Arknights\hongdou/shader"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\Arknights\hongdou/phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+	"$translucent" 1
+}
+	

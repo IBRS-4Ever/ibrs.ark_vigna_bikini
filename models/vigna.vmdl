@@ -139,6 +139,25 @@
 						]
 						hidden_in_tools = false
 					},
+					{
+						_class = "BodyGroup"
+						name = "Hair_band"
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"hair_band",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
+						]
+						hidden_in_tools = false
+					},
 				]
 			},
 			{
@@ -168,6 +187,10 @@
 							{
 								from = "hat.vmat"
 								to = "materials/models/arknights/hongdou/hat.vmat"
+							},
+							{
+								from = "skirt.vmat"
+								to = "materials/models/arknights/hongdou/skirt.vmat"
 							},
 						]
 						use_global_default = false
@@ -709,6 +732,23 @@
 						_class = "RenderMeshFile"
 						name = "Tie"
 						filename = "models/vigna_dmx/tie.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+					{
+						_class = "RenderMeshFile"
+						name = "hair_band"
+						filename = "models/vigna_dmx/hair_band.dmx"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
